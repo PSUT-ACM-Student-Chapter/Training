@@ -1,2 +1,1 @@
-# Training
-Training Material
+# PSUT ACM Training Material
